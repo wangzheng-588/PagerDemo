@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PagerDemo/app/build/intermediates/res/merged/debug/layout/page_layout.xml",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PagerDemo/app/src/main/res/layout/page_layout.xml"
+    },
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PagerDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PagerDemo/app/src/main/res/layout/activity_main.xml"
+    }
+]
